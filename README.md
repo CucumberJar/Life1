@@ -23,8 +23,8 @@
 1. **Склонируйте репозиторий**:
 
     ```bash
-    git clone https://github.com/yourusername/ecosystem-simulator.git
-    cd ecosystem-simulator
+    git https://github.com/CucumberJar/Life1.git
+    cd Life1
     ```
 
 2. **Убедитесь, что у вас установлена Java 8+**:
