@@ -1,3 +1,0 @@
-Temperature=20
-Humidity=80
-Water=80

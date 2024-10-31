@@ -1,3 +1,0 @@
-Temperature=12
-Humidity=12
-Water=6
